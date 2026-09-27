@@ -1,0 +1,26 @@
+{
+  "profile": {
+    "full_name": "Priyanshu Kalondia",
+    "city_country": "Burari, Delhi, India",
+    "student_or_role": "Information Technology and Communication student",
+    "story": "I am a technology student from Delhi who spends much of my time learning, building projects, and strengthening my practical skills beyond the classroom. As I work toward internships and a career in technology, having a capable and reliable laptop would make a meaningful difference in how effectively I can develop projects, experiment with new technologies, and continue building my portfolio.",
+    "use_case": "I plan to use the laptop primarily for software development, full-stack web and mobile application projects, cloud and DevOps practice, programming coursework, AI and machine learning experiments, and building portfolio projects that can help me prepare for internships and future opportunities in the technology industry.",
+    "portfolio_url": "https://priyanshukalondia.netlify.app/",
+    "linkedin_url": "https://www.linkedin.com/in/priyanshu-kalondia-653517390/",
+    "signature": "Priyanshu Kalondia\nInformation Technology and Communication Student\nDelhi, India\nPortfolio: https://priyanshukalondia.netlify.app/\nLinkedIn: https://www.linkedin.com/in/priyanshu-kalondia-653517390/"
+  },
+  "ask": {
+    "primary_request": "I wanted to ask whether your team has any student-support, creator-seeding, educational sponsorship, review-unit, community, or similar initiative through which you might consider supporting a student like me with a laptop for my studies, development work, and personal projects.",
+    "fallback_request": "I completely understand if providing a complimentary device is not possible. In that case, I would sincerely appreciate any guidance toward a student program, educational sponsorship, refurbished or demo-unit opportunity, student pricing initiative, or the appropriate team I could contact."
+  },
+  "mail": {
+    "smtp_host": "priyanshukalondia@gmail.com",
+    "smtp_port": 587,
+    "use_starttls": true,
+    "reply_to": ""
+  },
+  "sending": {
+    "max_emails_per_run": 10,
+    "delay_seconds": 45
+  }
+}

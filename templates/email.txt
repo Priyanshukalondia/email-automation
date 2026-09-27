@@ -1,0 +1,18 @@
+Hello {recipient_name},
+
+My name is {full_name}, and I’m a {student_or_role} based in {city_country}. I’m writing to you personally rather than sending a generic sponsorship message because there is something I genuinely appreciate about {brand}: {appreciation}
+
+{india_context}
+
+A little context about me: {story}
+
+The laptop would be used for real, ongoing work: {use_case} I’m especially interested in {product_line}, although I would be grateful for any suitable device your team believes makes sense.
+
+{primary_request}
+
+I understand that companies receive many requests like this and that you may not have a program for individual students. I am not asking you to make any promise, and I would never want to misrepresent myself or pretend I have an audience or credentials that I do not have. {fallback_request}
+
+If helpful, I’m happy to share relevant student verification, project links, or more context about what I’m building. Thank you for taking the time to read this, regardless of the outcome.
+
+Warm regards,
+{signature}
